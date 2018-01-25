@@ -18,7 +18,7 @@ the entities have exchange an AES-128 key, they can exchange data by first encry
 
 In-depth discussion of the project can be found at: https://dl.dropboxusercontent.com/u/83966315/cryptographic-protocols-between-arduino-and-PC/cryptographic-protocols-between-arduino-and-PC.pdf
 
-COPYRIGHT NOTICE
+### COPYRIGHT NOTICE
 
 Copyright (C) 2013 Arpit Chauhan, Inderjit Sidhu, Aditya Pandey and Archit Pandey
 
