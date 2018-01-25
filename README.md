@@ -16,7 +16,7 @@ AES key, they can exchange data by encrypting it with that key.
 In the third protocol, the key exchange is done prior to exchange of data, by using RSA. Again, after
 the entities have exchange an AES-128 key, they can exchange data by first encrypting it with that key.
 
-In-depth discussion of the project can be found at: https://dl.dropboxusercontent.com/u/83966315/cryptographic-protocols-between-arduino-and-PC/cryptographic-protocols-between-arduino-and-PC.pdf
+In-depth description of the project can be found [here](description.pdf).
 
 ### COPYRIGHT NOTICE
 
